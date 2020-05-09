@@ -1,0 +1,7 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_For_3\Döngüler_For_3\bin\Debug\Döngüler_For_3.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_For_3\Döngüler_For_3\bin\Debug\Döngüler_For_3.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_For_3\Döngüler_For_3\bin\Debug\Döngüler_For_3.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_For_3\Döngüler_For_3\obj\Debug\Döngüler_For_3.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_For_3\Döngüler_For_3\obj\Debug\Döngüler_For_3.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_For_3\Döngüler_For_3\obj\Debug\Döngüler_For_3.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Döngüler_For_3\Döngüler_For_3\obj\Debug\Döngüler_For_3.pdb
